@@ -1,6 +1,9 @@
 ### Hi  I'm Gulnar Naghiyeva 👋
 
 - 🌱 I’m currently learning React ...
+
+
+![Github stats 1](https://github-readme-stats.vercel.app/api?username=gnaghiyeva&show_icons=true&theme=gradient) 
 <!--
 **gnaghiyeva/gnaghiyeva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
