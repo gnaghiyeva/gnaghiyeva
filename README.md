@@ -6,6 +6,8 @@
 <!-- ![Github stats 1](https://github-readme-stats.vercel.app/api?username=gnaghiyeva&show_icons=true&theme=gradient)  -->
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=gnaghiyeva&show_icons=true&theme=radical)
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
+
 ### :hammer_and_wrench: Languages and Tools
 [![My Skills](https://skillicons.dev/icons?i=html,css,scss,bootstrap,js,react,nodejs,mongodb,git,figma )](https://skillicons.dev)
 <!--
