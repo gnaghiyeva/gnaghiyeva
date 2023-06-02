@@ -1,6 +1,6 @@
-<div align="center">
+<h1 align="center">
   ### Hi  I'm Gulnar Naghiyeva 👋
- </div>
+ </h1>
 
 
 - 🌱 I’m currently learning React ...
