@@ -1,4 +1,7 @@
-### Hi  I'm Gulnar Naghiyeva 👋
+<div align="center">
+  ### Hi  I'm Gulnar Naghiyeva 👋
+ </div>
+
 
 - 🌱 I’m currently learning React ...
 
