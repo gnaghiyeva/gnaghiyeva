@@ -6,7 +6,8 @@
 <!-- ![Github stats 1](https://github-readme-stats.vercel.app/api?username=gnaghiyeva&show_icons=true&theme=gradient)  -->
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=gnaghiyeva&show_icons=true&theme=radical)
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,scss,bootstrap,js,react,nodejs,mongodb,git )](https://skillicons.dev)
+### :hammer_and_wrench: Languages and Tools
+[![My Skills](https://skillicons.dev/icons?i=html,css,scss,bootstrap,js,react,nodejs,mongodb,git,figma )](https://skillicons.dev)
 <!--
 **gnaghiyeva/gnaghiyeva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
