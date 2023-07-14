@@ -10,7 +10,7 @@
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=gnaghiyeva&show_icons=true&theme=radical)
 
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gnaghiyeva)](https://github.com/gnaghiyeva/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gnaghiyeva&layout=compact)](https://github.com/gnaghiyeva/github-readme-stats)
 
 ### :hammer_and_wrench: Languages and Tools
 [![My Skills](https://skillicons.dev/icons?i=html,css,scss,bootstrap,js,react,nodejs,mongodb,git,figma )](https://skillicons.dev)
