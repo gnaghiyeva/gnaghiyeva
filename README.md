@@ -13,7 +13,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gnaghiyeva)]
 
 ### :hammer_and_wrench: Languages and Tools
-[![My Skills](https://skillicons.dev/icons?i=html,css,scss,bootstrap,js,react,nodejs,mongodb,git,figma )](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,scss,bootstrap,js,react,nodejs,mongodb,git,figma,java,spring )](https://skillicons.dev)
 <!--
 **gnaghiyeva/gnaghiyeva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
