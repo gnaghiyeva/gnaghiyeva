@@ -3,7 +3,7 @@
  </h1>
 
 
-- 🌱 I’m currently learning React ...
+- 🌱 I’m currently learning Java ...
 
 
 <!-- ![Github stats 1](https://github-readme-stats.vercel.app/api?username=gnaghiyeva&show_icons=true&theme=gradient)  -->
